@@ -19,9 +19,9 @@
   (pad 2 smd rect (at -2.35 2.26) (size 0.8 0.83) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.35 0.81) (size 0.8 0.77) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 2.36 2.26) (size 0.8 0.83) (layers F.Cu F.Paste F.Mask))
-  (model ../../../../../../works/headmaster/code/mech/pcb/parts/switch/micro/ALPS_SPVN110101.wrl
-    (at (xyz 0 -0.037 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+  (model Micro_Switches_ALPS.3dshapes/SPVN110101.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
